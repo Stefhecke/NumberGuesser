@@ -1,4 +1,4 @@
-# NumberGuesser in c#
+# NumberGuesser
 using System;
 
 
